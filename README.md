@@ -15,6 +15,6 @@ Raul Ribeiro\
 Thurian Campos(fields)\
 Vitor Hugo
 
-Thanks to everybody that helps, this beautiful mtfkrs
-
-kthksbye
+Thanks to everybody that helps, and this beautiful team.\
+Group project made in a bootcamp of Academia de Codigo.\
+Ilha terceira, 14/02/2021.
